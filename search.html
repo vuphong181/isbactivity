@@ -1,0 +1,24 @@
+<div class="container" ng-init="getId">
+		<div class="row">
+			<div class="col-md-12">
+				<div class="header">
+					<h4 class="headtitle">ISB EXTRA-CURRICULUM ACTIVITIES SYSTEM</h4>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12 col-xs-12">
+				<img src="images/isb1.jpg" alt="" class="mainimage">
+			</div>
+		</div>
+		<div class="row">
+			<div class="form-group">
+				<form>
+					<span><b>Your ID: </b></span>
+					<input type="text" placeholder="Your ID" ng-model="query">
+					<a href="#result/{{query}}"><button type="submit" ng-submit="getId()">Submit</button></a>
+				</form>
+			</div>
+		</div>
+
+	</div>
