@@ -1,3 +1,8 @@
+		<script>
+			$(function(){
+				$('#myCarousel').carousel();
+			});
+		</script>
 <div class="container" ng-init="getId">
 		<div class="row">
 			<div class="col-md-12">
@@ -6,9 +11,39 @@
 				</div>
 			</div>
 		</div>
+		<!-- Carousel -->
 		<div class="row">
-			<div class="col-md-12 col-xs-12">
-				<img src="images/isb1.jpg" alt="" class="mainimage">
+			<div id="myCarousel" class="col-xs-12 carousel slide" data-ride="carousel" data-interval="4000">
+
+						<ol class="carousel-indicators">
+							<li data-target="#carousel-id" data-slide-to="0" class="active"></li>
+							<li data-target="#carousel-id" data-slide-to="1"></li>
+							<li data-target="#carousel-id" data-slide-to="2"></li>
+							<li data-target="#carousel-id" data-slide-to="3"></li>
+							<li data-target="#carousel-id" data-slide-to="4"></li>
+						</ol>
+
+						<div class="carousel-inner">
+							<div class="item active">
+								<img src="images/carousel1.png"/>
+							</div>
+
+							<div class="item">
+								<img src="images/carousel2.png"/>
+							</div>
+
+							<div class="item">
+								<img src="images/carousel3.png"/>
+							</div>
+
+							<div class="item">
+								<img src="images/carousel4.png"/>
+							</div>
+
+							<div class="item">
+								<img src="images/carousel5.png"/>
+							</div>
+						</div>
 			</div>
 		</div>
 		<div class="row">
@@ -21,4 +56,4 @@
 			</div>
 		</div>
 
-	</div>
+</div>
