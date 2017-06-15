@@ -38,9 +38,9 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-12 col-xs-12 title bangdiem">
-				<table class="table table-striped table-responsive" align="center">
-					<tr>
+			<div class="col-md-12 col-xs-12 bangdiem">
+				<table class="table table-hover table-responsive" align="center">
+					<tr class="danger">
 						<th class="col-xs-4">Activity</th>
 						<th class="col-xs-2">Date</th>
 						<th class="col-xs-2">Responsibility</th>
@@ -49,10 +49,10 @@
 					</tr>
 					<tr ng-repeat="act in users.activity">
 						<td class="col-xs-4 ng-binding">{{act.title}}</td>
-						<td>{{act.date}}</td>
-						<td>{{act.responsibility}}</td>
-						<td>{{act.score}}</td>
-						<td>{{act.prize}}</td>
+						<td class="col-xs-2 ng-binding title">{{act.date}}</td>
+						<td class="col-xs-2 ng-binding title">{{act.responsibility}}</td>
+						<td class="col-xs-2 ng-binding title">{{act.score}}</td>
+						<td class="col-xs-2 ng-binding title">{{act.prize}}</td>
 					</tr>
 				</table>
 			</div>
