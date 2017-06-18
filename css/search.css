@@ -1,7 +1,7 @@
 .header {
 	height: 43px;
 	width: 100%;
-	background-color: #ED2224;
+	background-color: #8a181b;
 	text-align: center;
 	padding-top: 15px;
 }
@@ -54,4 +54,13 @@ table {
 }
 th {
 	text-align: center;
+	background-color: #8a181b;
+	color: white;
+}
+.searchbutton {
+	color: #8a181b;
+}
+.btn-lg {
+	background-color: #8a181b;
+	height: 42px;
 }

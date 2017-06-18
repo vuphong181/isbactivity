@@ -36,7 +36,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"8",
+      "result":"Quite low",
   },
 
   {
@@ -68,7 +69,8 @@ app.service('test',function(){
               },
       
       ],
-      
+      "total":"16",
+      "result":"Good",
   },
 
   {
@@ -114,7 +116,8 @@ app.service('test',function(){
               },
          
       ],
-      
+      "total":"10",
+      "result":"Quite low",
   },
 
   {
@@ -139,7 +142,8 @@ app.service('test',function(){
               },
          
       ],
-      
+      "total":"3",
+      "result":"Quite low",
   },
 
   {
@@ -171,7 +175,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"8",
+      "result":"Quite low",
   },
 
   {
@@ -189,7 +194,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"1",
+      "result":"Quite low",
   },
 
   {
@@ -207,14 +213,15 @@ app.service('test',function(){
               },
               {
                   "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"2",
+      "result":"Quite low",
   },
 
   {
@@ -246,7 +253,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"8",
+      "result":"Quite low",
   },
 
   {
@@ -278,7 +286,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"3",
+      "result":"Quite low",
   },
 
   {
@@ -296,7 +305,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -314,7 +324,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -332,7 +343,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -350,7 +362,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -403,7 +416,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"17",
+      "result":"Good",
   },
 
   {
@@ -435,7 +449,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"3",
+      "result":"Quite low",
   },
 
   {
@@ -453,7 +468,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"2",
+      "result":"Quite low",
   },
 
   {
@@ -513,14 +529,15 @@ app.service('test',function(){
               },
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"20",
+      "result":"Good",
   },
 
   {
@@ -531,14 +548,15 @@ app.service('test',function(){
       "activity":[
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"1",
+      "result":"Quite low",
   },
 
   {
@@ -556,7 +574,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -602,7 +621,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"17",
+      "result":"Good",
   },
 
   {
@@ -620,7 +640,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -638,7 +659,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -656,14 +678,15 @@ app.service('test',function(){
               },
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"2",
+      "result":"Quite low",
   },
 
   {
@@ -681,14 +704,15 @@ app.service('test',function(){
               },
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"2",
+      "result":"Quite low",
   },
 
   {
@@ -706,7 +730,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -738,7 +763,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"14",
+      "result":"Quite low",
   },
   
   {
@@ -777,7 +803,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"10",
+      "result":"Quite low",
   },
 
   {
@@ -809,14 +836,15 @@ app.service('test',function(){
               },
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"9",
+      "result":"Quite low",
   },
 
   {
@@ -834,7 +862,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"1",
+      "result":"Quite low",
   },
 
   {
@@ -852,7 +881,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"0",
+      "result":"Quite low",
   },
 
   {
@@ -870,7 +900,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"1",
+      "result":"Quite low",
   },
 
   {
@@ -909,7 +940,8 @@ app.service('test',function(){
               },
           
       ],
-      
+      "total":"17",
+      "result":"Good",
   },
 
   {
@@ -920,14 +952,15 @@ app.service('test',function(){
       "activity":[
               {
               "title":"CPA Australia Career Coach",
-                  "date":"2016",
+                  "date":"2017",
                   "responsibility":"Participant",
                   "prize":"",
                   "score":"1"
               },
           
       ],
-      
+      "total":"1",
+      "result":"Quite low",
   },
 
 
